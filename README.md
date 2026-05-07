@@ -1,16 +1,187 @@
-## Hi there 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      HEADER BANNER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abhishek%20Mane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20DSA%20Grinder%20%E2%80%A2%20AI%20Builder&descAlignY=56&descAlign=50&descColor=a0c4ff&descSize=18" />
+</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TAGLINE                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=%22I'm+not+competing.%22;%22I'm+building+something+they'll+study+later.%22;Java+%2B+Spring+Boot+%2B+React+%E2%86%92+Full-Stack;DSA+is+my+daily+gym+%F0%9F%A7%A0;AI+tools+%C3%97+good+code+%3D+10x+output" alt="Typing SVG" />
+  </a>
+  <br/><br/>
+</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      SOCIAL LINKS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhisheksmane">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/god-abhishek/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>&nbsp;
+  <a href="https://my-portfolio-one-delta-73.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:abhishekmane2110@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/abhishekmanegit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekmanegit&label=Profile+Views&color=4F46E5&style=flat-square" alt="Profile Views" />
+</div>
+<br/>
+---
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      WHO AM I                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+👤  Who Am I?
+```java
+public class Abhishek {
 
-<!--
-**abhishekmanegit/abhishekmanegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    String name        = "Abhishek Mane";
+    String degree      = "B.Tech CSE (AI) @ SITCOE, Yadrav — 2024–2027";
+    String location    = "Maharashtra, India 🇮🇳";
 
-Here are some ideas to get you started:
+    String[] building  = { "Java Full-Stack Projects", "Scalable REST APIs", "AI-driven apps" };
+    String[] sharpening= { "DSA on LeetCode", "Spring Boot internals", "System Design fundamentals" };
+    String[] exploring = { "Machine Learning", "AI tooling", "Open Source" };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    String mission     = "Build things that solve real problems — not portfolio fillers.";
+
+    void connect() {
+        System.out.println("Let's build something worth talking about → abhishekmane2110@gmail.com");
+    }
+}
+```
+<br/>
+---
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+🛠️  Tech Stack
+<table>
+  <tr>
+    <td valign="top" width="33%">
+⚙️ Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+</td>
+    <td valign="top" width="33%">
+🌐 Full-Stack
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</td>
+    <td valign="top" width="33%">
+🗄️ Data & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+</td>
+  </tr>
+</table>
+<br/>
+---
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      PROJECTS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+🚀  What I've Built
+#	Project	What it does	Stack
+🧠	Skin Disease Detection	Analyzes skin conditions like fungal infections & gives prevention guidance	`Python` `ML`
+🤖	StudentAgent – AI Agent	AI-powered academic assistant that helps students with queries digitally	`Python` `Groq API`
+🎨	Square Tattoo Studio	Live business website with artist portfolio & direct client contact	`HTML` `PHP` `MySQL`
+🏆	Softouch – Events Platform	Aggregates tech events & hackathons for college students in one place	`React` `Node.js` `MongoDB`
+<br/>
+---
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+📊  GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmanegit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&count_private=true&include_all_commits=true" height="170" alt="Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmanegit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&langs_count=6" height="170" alt="Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmanegit&theme=tokyonight&hide_border=true&background=0D1117&stroke=60A5FA&ring=60A5FA&fire=F97316&currStreakLabel=60A5FA&sideLabels=C9D1D9&sideNums=C9D1D9" alt="Streak" />
+</div>
+<br/>
+---
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      LEETCODE STATS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+🧩  DSA — LeetCode
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/god-abhishek?theme=dark&font=Nunito&ext=contest&border=0&radius=8" alt="LeetCode Stats" />
+</div>
+<br/>
+---
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ACTIVITY GRAPH                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+📈  Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmanegit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=60A5FA&point=FFFFFF&area=true&area_color=60A5FA" alt="Contribution Graph" />
+</div>
+<br/>
+---
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      EXPERIENCE & CERTS                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+🎓  Experience & Certifications
+```
+🏢  Flutter Intern @ Stromsoft Technologies, Ichalkaranji           Jun – Aug 2022
+     └─ Built profile cards, chatbots, and utility apps using Flutter
+     └─ Collaborated with a team on real client-facing projects
+
+📜  Deloitte Australia – Cyber Security Job Simulation (Forage)
+📊  Deloitte Australia – Data Analytics Job Simulation (Forage)
+📱  Flutter Intern Certificate – Stromsoft Technologies
+```
+<br/>
+---
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CURRENTLY                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+⚡  Right Now
+```
+🔨  Building   →  Java Full-Stack projects (Spring Boot + React)
+🧠  Sharpening →  DSA — one problem at a time on LeetCode
+🔭  Exploring  →  AI tooling, Machine Learning, new tech
+🤝  Open to    →  Internships, collabs, open-source contributions
+```
+<br/>
+---
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+</div>
+<div align="center">
+  <sub>
+    <b>✦ &nbsp; If something here resonates, let's build — not just connect. &nbsp; ✦</b>
+    <br/>
+    <a href="mailto:abhishekmane2110@gmail.com">abhishekmane2110@gmail.com</a>
+  </sub>
+</div>

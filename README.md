@@ -35,12 +35,12 @@
 public class Abhishek {
 
     String name        = "Abhishek Mane";
-    String degree      = "B.Tech CSE (AI) @ SITCOE, Yadrav — 2024–2027";
+    String degree      = "B.Tech CSE @ SITCOE, Yadrav — 2024–2027";
     String location    = "Maharashtra, India";
 
     String[] building  = { "Java Full-Stack Projects", "Scalable REST APIs", "AI-driven apps" };
     String[] sharpening= { "DSA on LeetCode", "Spring Boot internals", "System Design" };
-    String[] exploring = { "Machine Learning", "AI tooling", "Open Source" };
+    String[] exploring = { "AI Agents", "AI tooling", "Open Source" };
 
     String mission     = "Build things that solve real problems — not portfolio fillers.";
 

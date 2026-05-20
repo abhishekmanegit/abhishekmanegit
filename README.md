@@ -1,133 +1,126 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║           A B H I S H E K   M A N E                          ║
-║           ─────────────────────────────                       ║
-║           Full-Stack Engineer  ·  Java / Spring Boot          ║
-║           DSA Practitioner  ·  AI Builder                     ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<a href="https://www.linkedin.com/in/abhisheksmane">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://leetcode.com/u/god-abhishek/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-</a>&nbsp;
-<a href="https://my-portfolio-one-delta-73.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:abhishekmane2110@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=abhishekmanegit&label=views&color=6366F1&style=flat-square" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Mane&fontSize=58&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Engineer%20·%20Java%20%2F%20Spring%20Boot%20·%20AI%20Builder&descAlignY=72&descSize=16&descColor=a5b4fc" />
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheksmane)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/god-abhishek/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-one-delta-73.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmane2110@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=abhishekmanegit&label=Profile+Views&color=6366f1&style=flat-square" />
+
+</div>
+
 ---
 
-## `$ whoami`
+<img align="right" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=A5B4FC&vCenter=true&width=280&lines=Building+real+things.;Spring+Boot+%2B+React.;One+LeetCode+a+day.;Open+to+internships." />
+
+### `{ about }`
 
 ```java
-public class Abhishek {
+String name     = "Abhishek Mane";
+String college  = "B.Tech CSE (AI) · SITCOE, Yadrav · 2027";
+String location = "Maharashtra, India";
 
-    String  name      = "Abhishek Mane";
-    String  degree    = "B.Tech CSE (AI) · SITCOE, Yadrav · 2024–2027";
-    String  location  = "Maharashtra, India";
-
-    String[] building   = { "Production-grade REST APIs", "Java Full-Stack Systems", "AI-driven tools" };
-    String[] sharpening = { "DSA on LeetCode", "Spring Boot internals", "System Design patterns" };
-    String[] openTo     = { "SDE Internships", "Backend roles", "Open-source collabs" };
-
-    String  mission   = "Build things that work — not just things that look good in a portfolio.";
-}
+String[] focus  = { "Java Full-Stack", "REST APIs", "AI tools" };
+String[] openTo = { "SDE Internships", "Backend roles", "Open-source" };
+String   goal   = "Build things that work — not just look good.";
 ```
 
-<br/>
+<br clear="right"/>
 
 ---
 
-## `$ cat tech-stack.json`
+### `{ stack }`
 
-```json
-{
-  "languages"  : ["Java", "Python", "JavaScript", "C++", "PHP", "SQL", "C"],
-  "backend"    : ["Spring Boot", "Spring MVC", "REST APIs", "JPA / Hibernate"],
-  "frontend"   : ["React", "TailwindCSS", "HTML5", "CSS3"],
-  "databases"  : ["PostgreSQL", "MySQL"],
-  "tools"      : ["Git", "GitHub", "IntelliJ IDEA", "VS Code"]
-}
-```
+**Languages**
 
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+**Backend & Frontend**
 
-## `$ ls ./projects`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br/>
+**Databases & Tools**
 
-**01 — DevCollab Backend**
-> Collaborative developer platform with structured backend architecture — built for teams that ship.
-
-`Java` &nbsp;`Spring Boot` &nbsp;`PostgreSQL` &nbsp;`REST API`
-&nbsp;&nbsp;→ [`github.com/abhishekmanegit/devcollab-backend`](https://github.com/abhishekmanegit/devcollab-backend)
-
-<br/>
-
-**02 — CampusConnect**
-> A Spring Boot-powered campus networking platform — connecting students, events, and opportunities in one place.
-
-`Java` &nbsp;`Spring Boot` &nbsp;`MySQL` &nbsp;`MVC`
-&nbsp;&nbsp;→ [`github.com/abhishekmanegit/campusconnect-springboot`](https://github.com/abhishekmanegit/campusconnect-springboot)
-
-<br/>
-
-**03 — Square Tattoo Studio** *(live)*
-> Production business website for a real tattoo studio — artist portfolio, service showcase & client contact. Deployed and in use.
-
-`HTML` &nbsp;`PHP` &nbsp;`MySQL`
-&nbsp;&nbsp;→ [`github.com/abhishekmanegit/square-tattoo-live`](https://github.com/abhishekmanegit/square-tattoo-live)
-
-<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## `$ tail -f activity.log`
+### `{ projects }`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[DevCollab Backend](https://github.com/abhishekmanegit/devcollab-backend)**
+
+Collaborative developer platform backend — structured REST APIs built for real team workflows.
+
+`Java` `Spring Boot` `PostgreSQL` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+**[CampusConnect](https://github.com/abhishekmanegit/campusconnect-springboot)**
+
+Campus networking platform — connecting students, events & opportunities via a Spring Boot backend.
+
+`Java` `Spring Boot` `MySQL` `MVC`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[Square Tattoo Studio](https://github.com/abhishekmanegit/square-tattoo-live)** · *live & in use*
+
+Production business website for a real tattoo studio — artist portfolio, services & client contact. Actually deployed.
+
+`HTML` `PHP` `MySQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `{ activity }`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmanegit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F133" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmanegit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a5b4fc&line=6366f1&point=ffffff&area=true" />
 </div>
 
-<br/>
-
 ---
 
-## `$ crontab -l  # current focus`
+### `{ right now }`
 
 ```
-* * * * *   →  Java Full-Stack  (Spring Boot + React)
-* * * * *   →  DSA             (one LeetCode problem daily)
-* * * * *   →  AI tooling      (agents, APIs, real applications)
-* * * * *   →  Open to         internships · collabs · open-source
+🔨  Building    →  Java Full-Stack  (Spring Boot + React)
+🧠  Sharpening  →  DSA — one LeetCode problem daily
+🤖  Exploring   →  AI agents, tooling, real applications
+🤝  Open to     →  Internships · collabs · open-source
 ```
-
-<br/>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&reversal=true" />
 
-```
-─────────────────────────────────────────────────────────
-  Build first. Talk later.
-  abhishekmane2110@gmail.com
-─────────────────────────────────────────────────────────
-```
-
+**Build first. Talk later.**
+[abhishekmane2110@gmail.com](mailto:abhishekmane2110@gmail.com)
 </div>

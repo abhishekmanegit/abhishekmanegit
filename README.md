@@ -21,7 +21,7 @@
 
 ```java
 String name     = "Abhishek Mane";
-String college  = "B.Tech CSE (AI) · SITCOE, Yadrav · 2027";
+String college  = "B.Tech CSE · SITCOE, Yadrav · 2027";
 String location = "Maharashtra, India";
 
 String[] focus  = { "Java Full-Stack", "REST APIs", "AI tools" };

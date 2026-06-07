@@ -110,7 +110,7 @@ Production business website for a real tattoo studio — artist portfolio, servi
 ### `{ right now }`
 
 ```
-🔨  Building    →  Java Full-Stack  (Spring Boot + React)
+🔨  Building    →  Java Full-Stack 
 🧠  Sharpening  →  DSA — one LeetCode problem daily
 🤖  Exploring   →  AI agents, tooling, real applications
 🤝  Open to     →  Internships · collabs · open-source

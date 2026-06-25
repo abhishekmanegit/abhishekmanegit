@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Mane&fontSize=58&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Engineer%20·%20Java%20%2F%20Spring%20Boot%20·%20AI%20Builder&descAlignY=72&descSize=16&descColor=a5b4fc" />
+
 
 <br/>
 

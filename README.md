@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Mane&fontSize=58&fontColor=ffffff&fontAlignY=50&desc" />
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheksmane)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/god-abhishek/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-one-delta-73.vercel.app/)
@@ -11,10 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=abhishekmanegit&label=Profile+Views&color=6366f1&style=flat-square" />
 
 </div>
-
-
 <br clear="right"/>
-
 ---
 ### `{ projects }`
 

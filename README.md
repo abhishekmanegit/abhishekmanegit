@@ -69,6 +69,6 @@ Production business website for a real tattoo studio — artist portfolio, servi
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&reversal=true" />
 
-**Build first. Talk later.**
+**Code and Coffee.**
 [abhishekmane2110@gmail.com](mailto:abhishekmane2110@gmail.com)
 </div>

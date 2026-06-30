@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=abhishekmanegit&label=Profile+Views&color=6366f1&style=flat-square" />
 
 </div>
-<br clear="right"/>
+
 ---
 
 ### `{ projects }`

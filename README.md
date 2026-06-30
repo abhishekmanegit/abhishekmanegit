@@ -16,8 +16,6 @@
 <br clear="right"/>
 
 ---
-
-
 ### `{ projects }`
 
 <table>
@@ -53,7 +51,6 @@ Production business website for a real tattoo studio — artist portfolio, servi
 </td>
 </tr>
 </table>
-
 ---
 
 ### `{ activity }`
@@ -61,10 +58,6 @@ Production business website for a real tattoo studio — artist portfolio, servi
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmanegit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a5b4fc&line=6366f1&point=ffffff&area=true" />
 </div>
-
----
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&reversal=true" />

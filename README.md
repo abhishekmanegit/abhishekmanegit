@@ -12,10 +12,6 @@
 
 </div>
 
----
-
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=A5B4FC&vCenter=true&width=280&lines=Building+real+things.;Spring+Boot+%2B+React.;One+LeetCode+a+day.;Open+to+internships." />
-
 
 <br clear="right"/>
 

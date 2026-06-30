@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Mane&fontSize=58&fontColor=ffffff&fontAlignY=50&desc" />
 
-
-<img src="https://komarev.com/ghpvc/?username=abhishekmanegit&label=Profile+Views&color=6366f1&style=flat-square" />
-
 </div>
 
 ---

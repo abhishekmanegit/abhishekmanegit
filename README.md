@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek 👋
  
-### As a fresher, I'm passionate about exploring innovative tech solutions and constantly learning new skills.
+###I'm passionate about exploring innovative tech solutions and constantly learning new skills.
  
 ---
  

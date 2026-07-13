@@ -6,42 +6,7 @@
 
 ---
 
-### `{ projects }`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[DevCollab Backend](https://github.com/abhishekmanegit/devcollab-backend)**
-
-Collaborative developer platform backend — structured REST APIs built for real team workflows.
-
-`Java` `Spring Boot` `PostgreSQL` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-**[CampusConnect](https://github.com/abhishekmanegit/campusconnect-springboot)**
-
-Campus networking platform — connecting students, events & opportunities via a Spring Boot backend.
-
-`Java` `Spring Boot` `MySQL` `MVC`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**[Square Tattoo Studio](https://github.com/abhishekmanegit/square-tattoo-live)** · *live & in use*
-
-Production business website for a real tattoo studio — artist portfolio, services & client contact. Actually deployed.
-
-`HTML` `PHP` `MySQL`
-
-</td>
-</tr>
-</table>
----
 
 ### `{ activity }`
 
